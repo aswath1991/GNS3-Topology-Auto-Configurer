@@ -1,0 +1,9 @@
+Default Device Name,Management Interface,IP address,Hostname,Username,Password,Secret,Domain name
+R1,Fa0/0,192.168.79.101,E1NYC,admin,cisco,cisco,netman.com
+R2,Fa0/0,192.168.79.102,E2NYC,admin,cisco,cisco,netman.com
+R3,Fa0/0,192.168.79.103,C1NYC,admin,cisco,cisco,netman.com
+R4,Fa0/0,192.168.79.104,C2NYC,admin,cisco,cisco,netman.com
+R5,Fa0/0,192.168.79.105,E1SJ,admin,cisco,cisco,netman.com
+R6,Fa5/0,192.168.79.106,E2SJ,admin,cisco,cisco,netman.com
+R7,Fa0/0,192.168.79.107,C1SJ,admin,cisco,cisco,netman.com
+R8,Fa0/0,192.168.79.108,C2SJ,admin,cisco,cisco,netman.com
